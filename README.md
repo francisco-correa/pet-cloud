@@ -16,11 +16,9 @@ El veterinario puede crear nuevas mascotas asociadas al codigo de identificació
 | Front-End |
 | ------ |
 | HTML |
-| CSS |
 | SASS |
 | JavaScript |
 | React.Js |
-| React-Bootstrap |
 
 
 | Back-End |
@@ -28,8 +26,21 @@ El veterinario puede crear nuevas mascotas asociadas al codigo de identificació
 | Python |
 | Flask |
 | SQLAlchemy |
-| HL7 FHIR |
-| AWS |
+| PostgreSQL |
+
+| API| Descripción de Uso en la app |
+| --- | ----------- |
+| HL7 FHIR | Estándar sintáctico de salud |
+| Google API Places | Facilitar ingreso de direcciones |
+| Cloudinary | Sirve para personalizar foto de la mascota |
+| Cloudinary | Contacte con nosotros (PetCloud) |
+
+
+| Librerias|
+| ------ |
+| EmailJS |
+| React-Bootstrap |
+| Sweet Alert 2|
 
 
 ## Prerequisitos 📋
@@ -48,18 +59,13 @@ Paso a paso como correr el entorno de desarrollo
 Formato de codigo
 ```
 
-## Ejecutar Pruebas ⚙️
-
-Paso a paso como correr el entorno de desarrollo
-
-```
-Formato de codigo
-```
-
-
 ## Autores ✒️
 
-* **Nombre** - *Initial work* - Github
+**Nicolás Araya** - https://github.com/NicolasArayaB
+
+**Francisco Correa** - https://github.com/francisco-correa
+
+**Alvaro Brante**  - https://github.com/CablCode
 
 
 ## Licencia
