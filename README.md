@@ -2,14 +2,22 @@
 
 Sistema de veterinarios y dueños de mascota que permite digitalizar la ficha veterinaria de manera simple y en tiempo real
 
-## Funcionalidades
+## Funcionalidades  :hammer:
 
 ### Dueños de Mascota
-El dueño de mascota puede registrarse como usuario, puede indentificarse para poder ver la información de las mascotas asociadas a su usuario
+- registrarse y loguearse como usuario
+- ver la información de la o las mascotas que tiene en su perfil
+- personalizar la foto de sus mascotas
 
-### Veterinario
-El veterinario puede crear nuevas mascotas asociadas al codigo de identificación de la mascota segun el registro nacional de mascotas, ademas puede modificar los datos de cada mascota.
-
+### Médico Veterinario
+- registrarse y loguearse como usuario
+- crear nuevas mascotas asociadas a su CHIP (identificador único)
+   
+- crear nuevos controles de mascotas
+    - peso
+    - diagnóstico
+    - vacunas
+- actualizar los controles ya creados en la ficha de las mascotas
 
 ## Tecnologías Utilizadas  🚀
 
